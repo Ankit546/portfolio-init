@@ -1,0 +1,32 @@
+header{
+	background-color: rgb(249,90,97);
+}
+/*header h1{
+	display: inline;
+	width:30%;
+	font-size: 35px;
+	color: white;
+}*/
+header{
+	display: inline;
+}
+header img{
+	display: inline-block;
+	top: 30px;
+	margin-left:200px;
+}
+header nav ul{
+	width: 75%;
+	margin-top:0px;
+	text-align: right;
+}
+header nav li{
+	font-size: 24px;
+	list-style-type: none;
+	display: inline;
+	padding: 5px;
+}
+header nav a{
+	text-decoration: none;
+
+}

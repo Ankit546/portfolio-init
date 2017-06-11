@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color:#2F2F2F;
+}
+canvas{
+	background: #D4F5F5;
+	display: block;
+	margin: 30px auto;
+}
+a,h2{
+	text-decoration: none;
+	font-size: 120%;
+	color:rgb(207,207,207);
+	text-align: center;
+	padding: 4px;
+	display: block;
+	font-family: 'Roboto Mono',monospace;
+}

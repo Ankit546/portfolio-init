@@ -1,0 +1,81 @@
+body{
+	background-color: rgb(13,61,81);
+	/*overflow: hidden;*/
+}
+.profile-image{
+	border-radius:50%;
+	margin: 0 auto;
+	max-width:18%;
+	height: auto;
+	display: block;
+}
+
+#typing-intro{
+		color: rgb(207,207,207);
+		font-family: 'Roboto Mono', monospace; 
+		font-size:140%;
+		text-align: center;
+	}
+#typing-intro2{
+		color: #F5F0F6;			
+		font-family: 'Roboto Mono', monospace; 
+		font-size:120%;
+		text-align: center;
+	}
+
+.condition-btn{
+	display:block;
+	height:40px; /*add 35% height when viewing in mobile port in the media query*/
+	overflow: hidden;
+	margin: 50px auto;
+	background-color:#2E86AB;
+	color:#F5F0F6;
+	border-radius: 10px;
+	width: 75%;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 100%;
+}
+.condition-btn :hover{
+/*add hover styling and properly style the button too in the above styling*/
+}
+.para {
+		top:75%;
+		color: #F5F0F6;
+		font-family: 'Roboto Mono', monospace; 
+		font-size:100%;
+		text-align: center;
+		display: none;
+}
+.para-show{
+		top:75%;
+		color: #F5F0F6;
+		font-family: 'Roboto Mono', monospace; 
+		font-size:100%;
+		text-align: center;
+		display: block;
+}
+
+/*#overlay{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top:0;
+	z-index: 999;
+	background: rgba(0,0,0,0.8);
+}
+#loader {
+    border: 16px solid #f3f3f3; 
+    border-top: 16px solid #3498db;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+    margin:0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+*/

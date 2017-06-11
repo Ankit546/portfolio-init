@@ -1,0 +1,5 @@
+use percent instead of pixel
+100% is equal to the font size associated with that viewport and its fully scalable!
+
+freenom.com provides names to the website, new names can be made for the github site https://ankit9595.github.io/
+-ankitproj.cf
